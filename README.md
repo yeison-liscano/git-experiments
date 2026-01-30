@@ -1,4 +1,4 @@
 # git-experiments
 git show SHA
 git show SHA --format=fuller --quiet
-git test qa
+git test qatest live
